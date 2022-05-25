@@ -6,7 +6,7 @@
 
 :)!! 😊!!
 
-Link a la página del Portafolio :) !!: https://elcrisn.github.io/ElCriSN/ 👍!!!
+Link a la página del Portafolio :) !!: https://elcrisn.github.io/index.html 👍!!!
 
 Link al código de la primera bifurcación :)!!: https://github.com/ElCriSN/desafiogit-gitpages/ Link a la página de la primera bifurcación :)!!: https://elcrisn.github.io/desafiogit-gitpages/
 
